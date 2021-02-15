@@ -8,4 +8,21 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+## Overview
+
+## Project Summary/Abstract
+
+This application is in response to NIMH PAR-17-158, "Secondary Data Analyses to Explore NIMH Research Domain Criteria RDoC (R03)." The proposed two-year study will use existing genome-wide association study (GWAS) data from the Cognitive Genomics Consortium (COGENT) to investigate the latent molecular genetic architecture of working memory.
+Working memory is a core Construct of the RDoC Cognitive Systems Domain, defined as the active maintenance and flexible updating of goal/task relevant information in a form that has limited capacity and resists interference.
+Limited working memory capacity is a fundamental aspect of the cognitive impairments prevalent in many neuropsychiatric disorders.
+Most of the variability underlying differences in general working memory capacity can be traced back to inherited genetic factors.
+However, exactly how our DNA shapes the working memory system has yet to be established.
+As such, our objective is to identify the spectrum of genome-wide allelic variation underlying working memory -- from individual loci to genes to polygenic risk scores to functional biological pathways -- determined to be causal, not merely correlational, in relation to working memory performance.
+To accomplish our goals for the study, we will implement a new multivariate GWAS method, genomic structural equation modeling (Genomic SEM; Grotzinger, et al. Nat Hum Behav 2019), to conduct a common factor GWAS of working memory to identify genome-wide significant loci with effects on a genetically-derived general latent working memory factor ("Gwm").
+We have individual-level GWAS data on 24,000 participants in COGENT who have contributed 100,000 performance-based working memory datapoints from objective clinical and laboratory tasks such as digit span, spatial span, letter-number sequencing, and N-back.
+At genome-wide scale, we will then establish the range of shared genetic architecture between working memory and correlated CNS phenotypes, and expect widespread coheritability to emerge.
+At the molecular level, Mendelian randomization will determine the direction of causality underlying significant pleiotropy between working memory and correlated CNS phenotypes such as ADHD, autism, and schizophrenia.
+Finally, to prioritize working memory loci for follow-up studies, functional mapping and annotation tools will characterize the biology of causal mechanisms associated with working memory.
+To our knowledge, this will be the most comprehensive and statistically powerful GWAS of working memory.
+The results are to be openly and rapidly shared with the research community.
+By deciphering the causal pathways through which allelic variation either perturbs or protects the working memory system, which in turn can disrupt or support the development and function of neural systems underlying working memory, we can leverage this existing RDoC dataset to enhance theoretical and neurobiological models of working memory more solidly grounded in molecular genetics for follow-up functional and mechanistic studies.

@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "GWAS of the RDoC Cognitive Systems Domain: Modeling the Latent Genetic Architecture of Working Memory"
 output:
   workflowr::wflow_html:
     toc: false
@@ -7,4 +7,10 @@ editor_options:
   chunk_output_type: console
 ---
 
-Describe your project.
+# Overview
+
+# Relevance
+
+Poor working memory is a well-established cognitive risk factor implicated in both early appearing developmental disorders such as dyslexia and ADHD and later emerging neuropsychiatric disorders such as schizophrenia and depression.
+A general working memory latent factor (Gwm) that is 99%-100% heritable has been identified across multiple twin studies, yet the underlying molecular genetic mechanisms that either support or perturb the general working memory system to increase disease risk are poorly understood.
+This proposal will identify causal mechanisms associated with general working memory ability through a comprehensive genetics approach to improve our understanding of how limitations in working memory emerge from an individual's DNA sequence, which can inform psychiatric nosology, diagnostic practice, and aid in the development of improved therapeutic options to enhance working memory.
