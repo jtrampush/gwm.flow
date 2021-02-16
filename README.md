@@ -1,10 +1,12 @@
 # gwm.flow
 
-## Introduction
+## GWM: GWAS of Working Memory Research Project - Home Page
 
-This is the source repository for GWAS of Working Memory.
+Title: 
+Grant #:
+Project Timeline:
 
-## Timeline
+## Overview
 
 Grant starts and ends on 2020-2022
 
