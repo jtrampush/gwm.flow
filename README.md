@@ -1,6 +1,6 @@
 # gwm.flow
 
-## GWM: GWAS of Working Memory Research Project - Home Page
+## GWM: GWAS of Working Memory Research Project Workflow 2021-2022
 
 Title: 
 Grant #:
