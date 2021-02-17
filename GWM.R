@@ -1,8 +1,6 @@
 ## workflowr getting started
 ## Feb 15, 2021
 
-
-
 ### Start the project
 
 # To start a new project, open R (or RStudio) and load the workflowr package (note that all the code in this vignette should be run directly in the R console, i.e. do not try to run workflowr functions inside of R Markdown documents).
@@ -24,8 +22,6 @@ wflow_start(directory = "~/gwm.flow",
             user.name = "jtrampush",
             user.email = "j.trampush@gmail.com")
 
-
-
 # Build the site
 wflow_build()
 
@@ -39,7 +35,6 @@ wflow_build()
 
 # Publish the site, i.e. version the source code and HTML results
 wflow_publish("analysis/*", "Starting new GWM project")
-
 
 wflow_view()
 wflow_status()
