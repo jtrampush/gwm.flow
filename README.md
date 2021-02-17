@@ -15,9 +15,10 @@ Grant starts and ends on 2020-2022
 ### March 2021
 
 1. [ ] **Contact potential collaborators**
-	- [ ] LONI/Thompson/Toga
-	- [ ] Todd Lencz/ZHH
-	- [ ] Max Lam/Broad Institute
+	- [ ]	LONI/Thompson/Toga
+	- [ ] 	Todd Lencz/ZHH
+	- [ ] 	Max Lam/Broad Institute
+	- [ ] Other
 5. [ ] **Setup USC computing cluster account**
 	- [ ] Reactivate account
 	- [ ] Setup data analysis pipeline
@@ -44,11 +45,11 @@ Grant starts and ends on 2020-2022
 ### June 2021
 
 1. [ ] **Ordered task list**
-	- [ ] unordered task list
-	- [ ] unordered task list
+	- [ ]  unordered task list
+	- [ ]  unordered task list
 2. [ ] **Ordered task list next**
-	- [ ] unordered task list
-	- [ ] unordered task list
+	- [ ]  unordered task list
+	- [ ]  unordered task list
 
 
 This is based on a [workflowr][] project.
